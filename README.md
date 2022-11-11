@@ -4,4 +4,4 @@ Mr. Radar is a device used to detect the presence of a network switch on an open
 
 If a switch is a present, it can detect if the switch is PoE compliant and what Mode of PoE is present.
 
-Further setup instructions are forthcoming.
+Further setup and build instructions are forthcoming.
