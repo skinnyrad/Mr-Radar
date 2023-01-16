@@ -2,10 +2,14 @@
 Mr. Radar is a port security evading, discovery device used to detect network switches connected to lone network ports. In addition, it has the ability to detect if Power over Ethernet (PoE) is present and whether the PoE being provide is Mode A or Mode B in nature. An understanding of the functionality of Mr. Radar can be found here: https://skinnyrd.com/mr-radar-layer-1-recon/
 ![Mr Radar Photo](https://user-images.githubusercontent.com/20311289/212752046-b7969797-d6ee-4c6b-bb99-d615fbe3a9d1.png)
 
-## Mr. Radar Github File Structure
+## Github File Structure
 The hardware folder contains the KiCad project files for Mr. Radar. The MrRadar_firmware folder contains the .ino file for the Arduino IDE. These files will be used to program the Trinket M0 which controls Mr. Radar.
 
-## Mr. Radar Bill of Materials
+## Schematic
+If you don't want to bother with KiCad and just want to make the board from scratch or want to use another microcontroller, the schematic below will help.
+![mrradarschematic](https://user-images.githubusercontent.com/20311289/212778879-d41bc219-7bbd-4dc3-a45c-a46da20f90c3.png)
+
+## Bill of Materials
 - J1: RJ-45 Connector (https://www.digikey.com/short/mw80n14h)
 - R1: 100kΩ 1/4W
 - R2: 100kΩ 1/4W
