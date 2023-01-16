@@ -1,5 +1,5 @@
 # Mr Radar
-Mr. Radar is a port security evading, discovery device used to detect network switches connected to lone network ports. In addition, it has the ability to detect if Power over Ethernet (PoE) is present and whether the PoE being provide is Mode A or Mode B in nature.
+Mr. Radar is a port security evading, discovery device used to detect network switches connected to lone network ports. In addition, it has the ability to detect if Power over Ethernet (PoE) is present and whether the PoE being provide is Mode A or Mode B in nature. An understanding of the functionality of Mr. Radar can be found here: https://skinnyrd.com/mr-radar-layer-1-recon/
 ![Mr Radar Photo](https://user-images.githubusercontent.com/20311289/212752046-b7969797-d6ee-4c6b-bb99-d615fbe3a9d1.png)
 
 ## Mr. Radar Github File Structure
