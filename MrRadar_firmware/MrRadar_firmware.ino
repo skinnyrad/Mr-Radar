@@ -93,7 +93,7 @@ void loop()
   }
 
   //If voltage is present on pair 3, then blink red LED fast.
-  if(ModeA_val>98 || ModeA_val<90)
+  if(ModeA_val>100 || ModeA_val<80)
   {
     digitalWrite(13, HIGH);
     delay(50);
@@ -110,7 +110,7 @@ void loop()
     digitalWrite(13, HIGH);                           
   }
   //If voltage is present on pair 1, then blink red LED slow.
-  else if(ModeB_val>98 || ModeB_val<90)
+  else if(ModeB_val>100 || ModeB_val<80)
   {
     digitalWrite(13, HIGH);
     delay(300);
