@@ -1,6 +1,14 @@
 # Mr Radar
 Mr. Radar is a port security evading, discovery device used to detect network switches connected to lone network ports. In addition, it has the ability to detect if Power over Ethernet (PoE) is present and whether the PoE being provide is Mode A or Mode B in nature. An understanding of the functionality of Mr. Radar can be found here: https://skinnyrd.com/mr-radar-layer-1-recon/
+
 ![Mr Radar Photo](https://user-images.githubusercontent.com/20311289/212752046-b7969797-d6ee-4c6b-bb99-d615fbe3a9d1.png)
+
+Mr. Radar has the following indicators.
+- Small Green LED: Mr. Radar is ON.
+- Large Green Light: Mr. Radar has discovered a network device.
+- Large Orange Light: Mr. Radar has discovered a network device that can only support 10/100 Mbits/s. 
+- Small Rapid Blinking Red LED: Mr. Radar has detected PoE in a Mode A configuration.
+- Small Slowly Blinking Red LED: Mr. Radar has detected PoE in a Mode B configuration.
 
 ## Github File Structure
 The hardware folder contains the KiCad project files for Mr. Radar. The MrRadar_firmware folder contains the .ino file for the Arduino IDE. These files will be used to program the Trinket M0 which controls Mr. Radar.
