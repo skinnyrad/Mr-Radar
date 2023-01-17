@@ -5,8 +5,8 @@ Mr. Radar is a port security evading, discovery device used to detect network sw
 
 Mr. Radar has the following indicators that appear on the Trinket M0.
 - Small Green LED: Mr. Radar is ON. LED is located to the left of the µUSB connector.
-- Large Green LED: Mr. Radar has discovered a network device. LED is the neopixel in the center.
-- Large Orange LED: Mr. Radar has discovered a network device that can only support 10/100 Mbits/s. LED is the neopixel in the center.
+- Large Green LED: Mr. Radar has discovered a network device. LED is the Dotstar in the center.
+- Large Orange LED: Mr. Radar has discovered a network device that can only support 10/100 Mbits/s. LED is the Dotstar in the center.
 - Small Rapid Blinking Red LED: Mr. Radar has detected PoE in a Mode A configuration. LED is located to the right of the µUSB connector.
 - Small Slowly Blinking Red LED: Mr. Radar has detected PoE in a Mode B configuration. LED is located to the right of the µUSB connector.
 
