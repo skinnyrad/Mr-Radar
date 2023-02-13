@@ -31,8 +31,8 @@ If you don't want to bother with KiCad and just want to make the board from scra
 - U1: [Trinket M0](https://www.adafruit.com/product/3500)
 - SW1: [SPST Switch](https://www.digikey.com/short/q5dbrt7p)
 - BT1: [Battery Pack](https://www.digikey.com/short/m8dprrz4)
-- Machine Screw: [#2-56 Thread Size, 1/4 in Lg, 18-8](https://www.grainger.com/product/GRAINGER-APPROVED-Machine-Screw-2-56-Thread-1ZB23?searchQuery=1ZB23&searchBar=true&tier=Not+Applicable)
-- Hex Nut: [Plain, 18-8, Stainless Steel, #2-56 Thread](https://www.grainger.com/product/GRAINGER-APPROVED-Hex-Nut-Plain-1WA81?searchQuery=1WA81&searchBar=true&tier=Not+Applicable)
+- 2 Machine Screws: [#2-56 Thread Size, 1/4 in Lg, 18-8](https://www.grainger.com/product/GRAINGER-APPROVED-Machine-Screw-2-56-Thread-1ZB23?searchQuery=1ZB23&searchBar=true&tier=Not+Applicable)
+- 2 Hex Nuts: [Plain, 18-8, Stainless Steel, #2-56 Thread](https://www.grainger.com/product/GRAINGER-APPROVED-Hex-Nut-Plain-1WA81?searchQuery=1WA81&searchBar=true&tier=Not+Applicable)
 
 ## Tips for construction
 - When loading the code for the Trinket M0, ensure you have setup the Trinket according to the [Adafruit tutorial](https://learn.adafruit.com/adafruit-trinket-m0-circuitpython-arduino). Use the Arduino IDE setup procedures.
